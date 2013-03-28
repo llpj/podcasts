@@ -1,6 +1,6 @@
 # Podcasts
 
-podcasts that I am subscribed to.
+podcasts that I am subscribed to:
 
 ## Essential
 
