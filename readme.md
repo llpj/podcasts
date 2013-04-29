@@ -67,3 +67,7 @@ podcasts that I am subscribed to:
 - IEEE Software's "Tools of the Trade"
 - Ask Different Podcast
 - Wide Teams
+
+## Further Reference
+
+- [Listen, Watch And Share!](http://www.smashingmagazine.com/2013/04/19/podcasts-for-designers-developers)
