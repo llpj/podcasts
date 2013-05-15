@@ -4,23 +4,23 @@ podcasts that I am subscribed to:
 
 ## Essential
 
-- Software Engineering Radio
+- The Changelog
+- Giant Robots Smashing Other Giant Robots
 - JavaScript Jabber
 - Ruby Rogues
-- NodeUp
-- Giant Robots Smashing Other Giant Robots
-- The Changelog
-- Hanselminutes
-- This Developer's Life
 - FLOSS Weekly
+- NodeUp
+- /dev/hell
+- Software Engineering Radio
+- Hanselminutes
 - WebDev Radio
 - .NET Rocks!
-- /dev/hell
 - Herding Code
+- This Developer's Life
 
 ## Good
 
-- Technically Fit and Healthy
+- The Farmhouse Podcast
 - The Scala Types
 - The Non Breaking Space
 - The Creative Codeing Podcast
@@ -32,6 +32,7 @@ podcasts that I am subscribed to:
 
 ## In the Queue (not enough time to listen)
 
+- [Product People](http://productpeople.tv)
 - The Big Web Show
 - DPC Radio
 - RailsCasts (Mobile)
@@ -62,11 +63,11 @@ podcasts that I am subscribed to:
 - The JavaScript Show
 - Ruby Freelancers
 - Lococast.net
-- The Farmhouse Podcast
 - Kalzumeus Software
 - IEEE Software's "Tools of the Trade"
 - Ask Different Podcast
 - Wide Teams
+- Technically Fit and Healthy
 
 ## Further Reference
 
