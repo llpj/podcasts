@@ -33,6 +33,7 @@ podcasts that I am subscribed to:
 ## In the Queue (not enough time to listen)
 
 - [Product People](http://productpeople.tv)
+- [Relevance Podcast](http://thinkrelevance.com/blog/tags/podcast)
 - The Big Web Show
 - DPC Radio
 - RailsCasts (Mobile)
