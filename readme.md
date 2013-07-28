@@ -47,7 +47,7 @@ podcasts that I am subscribed to:
 - The Ars Technicast
 - iDeveloper Live
 - Open Source Hardware
-- The Ship Show
+- [The Ship Show](http://theshipshow.com)
 - Mostly λazy…a Clojure podcast
 - Clojure
 - Core Intuition
