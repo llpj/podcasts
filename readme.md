@@ -5,7 +5,7 @@ podcasts that I am subscribed to:
 ## Essential
 
 - The Changelog
-- Giant Robots Smashing Other Giant Robots
+- [Giant Robots Smashing into Other Giant Robots](http://learn.thoughtbot.com/podcast)
 - JavaScript Jabber
 - Ruby Rogues
 - FLOSS Weekly
@@ -25,18 +25,21 @@ podcasts that I am subscribed to:
 - The Non Breaking Space
 - The Creative Codeing Podcast
 - SitePoint Podcast
+- [GitMinutes](http://www.gitminutes.com)
 - ShopTalk
 - Hypercritical
 - Cloud Out Loud | Ruby
 - SD Ruby Podcast
+- [Mostly Erlang](http://mostlyerlang.com)
 
 ## In the Queue (not enough time to listen)
 
 - [Product People](http://productpeople.tv)
-- [Relevance Podcast](http://thinkrelevance.com/blog/tags/podcast)
+- [ThinkRelevance Podcast](http://thinkrelevance.com/blog/tags/podcast)
 - The Big Web Show
 - DPC Radio
 - RailsCasts (Mobile)
+- [Open Home Automation](http://openhomeautomation.net/)
 - Mac Power Users
 - The Industry Radio Show
 - Vimcasts
@@ -55,6 +58,7 @@ podcasts that I am subscribed to:
 - The Food Fight Show
 - Encouraging Others Through Christ
 - Freakonomics Radio
+- [Happy Monday](http://happymondaypodcast.com)
 
 ## Maybe delete?
  
