@@ -77,6 +77,12 @@ podcasts that I am subscribed to:
 ## Favorite Episodes
 
 - [HANSELMINUTES: Bugs Considered Harmful with Douglas Crockford](http://hanselminutes.com/396/bugs-considered-harmful-with-douglas-crockford)
+- [GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS: Fancy Scala (Sean Griffin)](http://podcasts.thoughtbot.com/giantrobots/74)
+- [GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS: We don't have a monopoly on being unhealthy](http://podcasts.thoughtbot.com/giantrobots/46)
+- []()
+- []()
+- []()
+- []()
 
 ## Further Reference
 
