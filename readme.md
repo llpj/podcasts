@@ -74,6 +74,10 @@ podcasts that I am subscribed to:
 - Wide Teams
 - Technically Fit and Healthy
 
+## Favorite Episodes
+
+- [HANSELMINUTES: Bugs Considered Harmful with Douglas Crockford](http://hanselminutes.com/396/bugs-considered-harmful-with-douglas-crockford)
+
 ## Further Reference
 
 - [Listen, Watch And Share!](http://www.smashingmagazine.com/2013/04/19/podcasts-for-designers-developers)
