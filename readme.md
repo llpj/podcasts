@@ -84,10 +84,16 @@ podcasts that I am subscribed to:
 
 - [We don't have a monopoly on being unhealthy](http://podcasts.thoughtbot.com/giantrobots/46)
 - [Fancy Scala (Sean Griffin)](http://podcasts.thoughtbot.com/giantrobots/74)
-- []()
-- []()
-- []()
-- []()
+
+### The Changelog
+
+- [#86: Discourse, Ruby and more with Jeff Atwood (aka Coding Horror)](http://thechangelog.com/86/)
+- [Episode 0.3.5 – Homebrew with Max Howell](http://thechangelog.com/episode-0-3-5-homebrew-with-max-howell/)
+
+### Mostly Erlang
+
+- [17 Rabbit MQ With Bryan Hunter](http://mostlyerlang.com/2013/09/16/17-rabbit-mq-with-bryan-hunter/)
+- [019 Elixir With José Valim](http://mostlyerlang.com/2013/10/07/019-elixir-with-jose-valim/)
 
 ## Further Reference
 
