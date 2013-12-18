@@ -32,9 +32,9 @@ podcasts that I am subscribed to:
 ## OK, but...
 
 - [Mac Power Users](http://www.macpowerusers.com/category/podcast)
-  **long winded...scanning the show notes helps.**
+  - long winded...scanning the show notes helps.
 - [Founders Talk](http://5by5.tv/founderstalk)
-  **good show, but episodes aren't very frequent.**
+  - good show, but episodes aren't very frequent.
 
 ## In the Queue (not enough time to listen)
 
