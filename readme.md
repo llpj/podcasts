@@ -25,7 +25,6 @@ podcasts that I am subscribed to:
 - SitePoint Podcast
 - [GitMinutes](http://www.gitminutes.com)
 - ShopTalk
-- Hypercritical
 - SD Ruby Podcast
 - [Mostly Erlang](http://mostlyerlang.com)
 - [The Ship Show](http://theshipshow.com)
@@ -42,7 +41,6 @@ podcasts that I am subscribed to:
 - [Product People](http://productpeople.tv)
 - [ThinkRelevance Podcast](http://thinkrelevance.com/blog/tags/podcast)
 - The Big Web Show
-- DPC Radio
 - RailsCasts (Mobile)
 - [Open Home Automation](http://openhomeautomation.net/)
 - The Industry Radio Show
@@ -71,6 +69,7 @@ podcasts that I am subscribed to:
 
 - SitePoint Podcast
 - Cloud Out Loud | Ruby
+- Hypercritical
 
 ## Unsubscribed (did not enjoy)
 
@@ -85,6 +84,7 @@ podcasts that I am subscribed to:
 - The Scala Types
 - The Freelancers Show
 - The JavaScript Show
+- DPC Radio
 
 ## Favorite Episodes
 
@@ -94,6 +94,8 @@ podcasts that I am subscribed to:
 
 ### GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS
 
+- [A Beautiful Thing (Harold Giménez)](http://podcasts.thoughtbot.com/giantrobots/77)
+  - postgresql tips from an expert
 - [We don't have a monopoly on being unhealthy](http://podcasts.thoughtbot.com/giantrobots/46)
 - [Fancy Scala (Sean Griffin)](http://podcasts.thoughtbot.com/giantrobots/74)
 
