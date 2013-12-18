@@ -16,12 +16,11 @@ podcasts that I am subscribed to:
 - WebDev Radio
 - .NET Rocks!
 - Herding Code
-- This Developer's Life
+- Freakonomics Radio
 
 ## Good
 
 - The Farmhouse Podcast
-- The Scala Types
 - The Non Breaking Space
 - The Creative Codeing Podcast
 - SitePoint Podcast
@@ -32,6 +31,16 @@ podcasts that I am subscribed to:
 - SD Ruby Podcast
 - [Mostly Erlang](http://mostlyerlang.com)
 
+## OK, but...
+
+- [Mac Power Users](http://www.macpowerusers.com/category/podcast)
+  **long winded...scanning the show notes helps.**
+
+## MIA
+
+- This Developer's Life
+- The Scala Types
+
 ## In the Queue (not enough time to listen)
 
 - [Product People](http://productpeople.tv)
@@ -40,27 +49,22 @@ podcasts that I am subscribed to:
 - DPC Radio
 - RailsCasts (Mobile)
 - [Open Home Automation](http://openhomeautomation.net/)
-- Mac Power Users
 - The Industry Radio Show
 - Vimcasts
 - The History of Rome
 - The Ars Technicast
-- iDeveloper Live
 - Open Source Hardware
 - [The Ship Show](http://theshipshow.com)
 - Mostly λazy…a Clojure podcast
 - Clojure
-- Core Intuition
 - Dan Carlin's Hardcore History
 - Systematic
 - On the Media
 - Lostcast
 - The Food Fight Show
 - Encouraging Others Through Christ
-- Freakonomics Radio
-- [Happy Monday](http://happymondaypodcast.com)
 
-## Maybe delete?
+## On the fence
  
 - The Pipeline
 - Founders Talk
@@ -70,9 +74,15 @@ podcasts that I am subscribed to:
 - Lococast.net
 - Kalzumeus Software
 - IEEE Software's "Tools of the Trade"
-- Ask Different Podcast
 - Wide Teams
 - Technically Fit and Healthy
+
+## Unsubscribed
+
+- Ask Different Podcast
+- [Happy Monday](http://happymondaypodcast.com)
+- iDeveloper Live
+- Core Intuition
 
 ## Favorite Episodes
 
