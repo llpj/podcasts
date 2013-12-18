@@ -26,7 +26,6 @@ podcasts that I am subscribed to:
 - [GitMinutes](http://www.gitminutes.com)
 - ShopTalk
 - Hypercritical
-- Cloud Out Loud | Ruby
 - SD Ruby Podcast
 - [Mostly Erlang](http://mostlyerlang.com)
 - [The Ship Show](http://theshipshow.com)
@@ -35,6 +34,8 @@ podcasts that I am subscribed to:
 
 - [Mac Power Users](http://www.macpowerusers.com/category/podcast)
   **long winded...scanning the show notes helps.**
+- [Founders Talk](http://5by5.tv/founderstalk)
+  **good show, but episodes aren't very frequent.**
 
 ## In the Queue (not enough time to listen)
 
@@ -69,6 +70,7 @@ podcasts that I am subscribed to:
 ## Unsubscribed (podcast went MIA)
 
 - SitePoint Podcast
+- Cloud Out Loud | Ruby
 
 ## Unsubscribed (did not enjoy)
 
@@ -79,7 +81,6 @@ podcasts that I am subscribed to:
 - The Farmhouse Podcast
 - The Non Breaking Space
 - The Pipeline
-- Founders Talk
 - Technically Fit and Healthy
 - The Scala Types
 - The Freelancers Show
