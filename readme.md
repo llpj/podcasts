@@ -28,6 +28,7 @@ podcasts that I am subscribed to:
 - SD Ruby Podcast
 - [Mostly Erlang](http://mostlyerlang.com)
 - [The Ship Show](http://theshipshow.com)
+- [The Cognicast](http://thinkrelevance.com/blog/tags/podcast)
 
 ## OK, but...
 
@@ -39,7 +40,6 @@ podcasts that I am subscribed to:
 ## In the Queue (not enough time to listen)
 
 - [Product People](http://productpeople.tv)
-- [ThinkRelevance Podcast](http://thinkrelevance.com/blog/tags/podcast)
 - The Big Web Show
 - RailsCasts (Mobile)
 - [Open Home Automation](http://openhomeautomation.net/)
@@ -118,6 +118,10 @@ podcasts that I am subscribed to:
 - [Episode 182: Domain-Specific Languages with Martin Fowler and Rebecca Parsons](http://www.se-radio.net/2012/01/episode-182-domain-specific-languages-with-martin-fowler-and-rebecca-parsons)
 - [Episode 187: Grant Ingersoll on the Solr Search Engine](http://www.se-radio.net/2012/07/episode-187-grant-ingersoll-on-the-solr-search-engine)
 - [Episode 186: Martin Fowler and Pramod Sadalage on Agile Database Development](http://www.se-radio.net/2012/06/episode-186-martin-fowler-and-pramod-sadalage-on-agile-database-development)
+
+### The Cognicast
+
+- [Reid Draper - Cognicast Episode 045](http://thinkrelevance.com/blog/2013/11/11/reid-draper-cognicast-episode-045)
 
 ## Further Reference
 
