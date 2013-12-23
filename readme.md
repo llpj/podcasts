@@ -29,6 +29,7 @@ podcasts that I am subscribed to:
 - [Mostly Erlang](http://mostlyerlang.com)
 - [The Ship Show](http://theshipshow.com)
 - [The Cognicast](http://thinkrelevance.com/blog/tags/podcast)
+- [The Food Fight Show](http://foodfightshow.org)
 
 ## OK, but...
 
@@ -54,7 +55,6 @@ podcasts that I am subscribed to:
 - Systematic
 - On the Media
 - Lostcast
-- The Food Fight Show
 - Encouraging Others Through Christ
 
 ## On the fence
@@ -125,7 +125,7 @@ podcasts that I am subscribed to:
 
 ### The Food Fight Show
 
-- [Food Fight Show 65 - Livin' on the Edge with Al Tobey](http://castroller.com/podcasts/TheFoodFight/3808440)
+- [Food Fight Show 65 - Livin' on the Edge with Al Tobey](http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html)
 
 ## Further Reference
 
