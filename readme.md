@@ -94,6 +94,7 @@ podcasts that I am subscribed to:
 
 ### GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS
 
+- [The Gentle Wise One (Uncle Bob Martin)](http://podcasts.thoughtbot.com/giantrobots/79)
 - [A Beautiful Thing (Harold Giménez)](http://podcasts.thoughtbot.com/giantrobots/77)
   - postgresql tips from an expert
 - [We don't have a monopoly on being unhealthy](http://podcasts.thoughtbot.com/giantrobots/46)
