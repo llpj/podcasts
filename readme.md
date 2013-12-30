@@ -14,7 +14,7 @@ podcasts that I am subscribed to:
 - /dev/hell
 - Hanselminutes
 - WebDev Radio
-- .NET Rocks!
+- [.NET Rocks!](http://www.dotnetrocks.com)
 - Herding Code
 - Freakonomics Radio
 
@@ -87,6 +87,10 @@ podcasts that I am subscribed to:
 - DPC Radio
 
 ## Favorite Episodes
+
+### .NET Rocks!
+
+- [On Building Software with Bob Martin](http://www.dotnetrocks.com/default.aspx?showNum=934)
 
 ### HANSELMINUTES
 
