@@ -91,6 +91,8 @@ podcasts that I am subscribed to:
 ### NodeUp
 
 - [a team groupon show](http://nodeup.com/fiftyeight)
+- [a docker show](http://nodeup.com/fiftyseven)
+- [a team walmart show #nodebf](http://nodeup.com/fiftysix)
 
 ### .NET Rocks!
 
