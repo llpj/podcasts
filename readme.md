@@ -137,6 +137,10 @@ podcasts that I am subscribed to:
 
 - [Food Fight Show 65 - Livin' on the Edge with Al Tobey](http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html)
 
+### Mac Power Users
+
+- [Mac Power Users 171: Photo Management](http://www.macpowerusers.com/2014/01/05/mac-power-users-171-photo-management/)
+
 ## Further Reference
 
 - [Listen, Watch And Share!](http://www.smashingmagazine.com/2013/04/19/podcasts-for-designers-developers)
