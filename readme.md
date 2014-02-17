@@ -97,6 +97,7 @@ podcasts that I am subscribed to:
 ### .NET Rocks!
 
 - [On Building Software with Bob Martin](http://www.dotnetrocks.com/default.aspx?showNum=934)
+- [Javascript in the Enterprise with Justin Searls](http://dotnetrocks.com/default.aspx?showNum=940)
 
 ### HANSELMINUTES
 
