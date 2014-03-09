@@ -10,7 +10,7 @@ podcasts that I am subscribed to:
 - JavaScript Jabber
 - Ruby Rogues
 - FLOSS Weekly
-- [NodeUp](http://nodeup.com/fiftyeight)
+- [NodeUp](http://nodeup.com/fiftyeight), [contribute](https://github.com/nodeup/contribute)
 - /dev/hell
 - Hanselminutes
 - WebDev Radio
