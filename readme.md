@@ -105,6 +105,7 @@ podcasts that I am subscribed to:
 
 ### GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS
 
+- [Teach all the things (Matt Knox)](http://podcasts.thoughtbot.com/giantrobots/82)
 - [The Gentle Wise One (Uncle Bob Martin)](http://podcasts.thoughtbot.com/giantrobots/79)
 - [A Beautiful Thing (Harold Giménez)](http://podcasts.thoughtbot.com/giantrobots/77)
   - postgresql tips from an expert
