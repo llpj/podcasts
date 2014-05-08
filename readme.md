@@ -112,6 +112,10 @@ podcasts that I am subscribed to:
 - [We don't have a monopoly on being unhealthy](http://podcasts.thoughtbot.com/giantrobots/46)
 - [Fancy Scala (Sean Griffin)](http://podcasts.thoughtbot.com/giantrobots/74)
 
+### JavaScript Jabber
+
+- [107 JSJ ClojureScript & Om with David Nolen](http://javascriptjabber.com/107-jsj-clojurescript-om-with-david-nolen/)
+
 ### The Changelog
 
 - [#114: RethinkDB with Slava Akhmechet](http://thechangelog.com/114)
