@@ -6,13 +6,12 @@ podcasts that I am subscribed to:
 
 - [The Changelog Podcast](http://thechangelog.com/podcast)
 - [Giant Robots Smashing into Other Giant Robots](http://learn.thoughtbot.com/podcast)
+- [Hanselminutes](http://hanselminutes.com)
 - [Software Engineering Radio](http://www.se-radio.net/category/episodes)
 - JavaScript Jabber
 - Ruby Rogues
 - FLOSS Weekly
 - [NodeUp](http://nodeup.com/fiftyeight), [contribute](https://github.com/nodeup/contribute)
-- /dev/hell
-- Hanselminutes
 - WebDev Radio
 - [.NET Rocks!](http://www.dotnetrocks.com)
 - Herding Code
@@ -37,6 +36,8 @@ podcasts that I am subscribed to:
   - long winded...scanning the show notes helps.
 - [Founders Talk](http://5by5.tv/founderstalk)
   - good show, but episodes aren't very frequent.
+- [/dev/hell](http://devhell.info/)
+  - would be nice if it focused on more non-PHP tech.
 
 ## In the Queue (not enough time to listen)
 
@@ -102,6 +103,9 @@ podcasts that I am subscribed to:
 ### HANSELMINUTES
 
 - [Bugs Considered Harmful with Douglas Crockford](http://hanselminutes.com/396/bugs-considered-harmful-with-douglas-crockford)
+- [Learn WebRTC with Lisa Larson-Kelley](http://hanselminutes.com/418/learn-webrtc-with-lisa-larson-kelley)
+- [Creating the Plex Software Ecosystem with Elan Feingold](http://hanselminutes.com/414/creating-the-plex-software-ecosystem-with-elan-feingold)
+- [Learning Code The Hard Way with Zed Shaw](http://hanselminutes.com/407/learning-code-the-hard-way-with-zed-shaw)
 
 ### GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS
 
