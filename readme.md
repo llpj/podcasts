@@ -122,6 +122,10 @@ podcasts that I am subscribed to:
 
 ### The Changelog
 
+- [#120: Ruby tooling, chruby, ruby-install, and security with Postmodern](http://thechangelog.com/120/)
+- [#117: Go, Martini and Gophercasts with Jeremy Saenz](http://thechangelog.com/117/)
+- [#116: Node Black Friday at Walmart with Eran Hammer](http://thechangelog.com/116/)
+- [#101: npm origins and Node.js with Isaac Schlueter](http://thechangelog.com/101/)
 - [#114: RethinkDB with Slava Akhmechet](http://thechangelog.com/114)
 - [#113: Scale npm with Isaac Schlueter and Charlie Robbins](http://thechangelog.com/113)
 - [#86: Discourse, Ruby and more with Jeff Atwood (aka Coding Horror)](http://thechangelog.com/86/)
