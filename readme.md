@@ -9,11 +9,12 @@ podcasts that I am subscribed to:
 - [Hanselminutes](http://hanselminutes.com)
 - [Software Engineering Radio](http://www.se-radio.net/category/episodes)
 - [JavaScript Jabber](http://javascriptjabber.com)
-- Ruby Rogues
-- FLOSS Weekly
+- [Ruby Rogues](http://rubyrogues.com/154-rr-indie-game-development-with-megan-fox/)
+- [FLOSS Weekly](http://twit.tv/show/floss-weekly)
 - [NodeUp](http://nodeup.com/fiftyeight), [contribute](https://github.com/nodeup/contribute)
-- WebDev Radio
 - [.NET Rocks!](http://www.dotnetrocks.com)
+- [Vim Casts](http://vimcasts.org/episodes/)
+- WebDev Radio
 - Herding Code
 - Freakonomics Radio
 
@@ -46,7 +47,6 @@ podcasts that I am subscribed to:
 - RailsCasts (Mobile)
 - [Open Home Automation](http://openhomeautomation.net/)
 - The Industry Radio Show
-- Vimcasts
 - The History of Rome
 - The Ars Technicast
 - Open Source Hardware
@@ -131,6 +131,16 @@ podcasts that I am subscribed to:
 - [#113: Scale npm with Isaac Schlueter and Charlie Robbins](http://thechangelog.com/113)
 - [#86: Discourse, Ruby and more with Jeff Atwood (aka Coding Horror)](http://thechangelog.com/86/)
 - [Episode 0.3.5 – Homebrew with Max Howell](http://thechangelog.com/episode-0-3-5-homebrew-with-max-howell/)
+
+### Ruby Rogues
+
+- [155 RR Why Ruby Sucks](http://rubyrogues.com/155-rr-why-ruby-sucks/)
+- [154 RR Indie Game Development with Megan Fox](http://rubyrogues.com/154-rr-indie-game-development-with-megan-fox/)
+
+### FLOSS Weekly
+
+- [FLOSS Weekly » Episode 290: Seafile](http://twit.tv/show/floss-weekly/290)
+- [FLOSS Weekly » Episode 284: The Go Language](http://twit.tv/show/floss-weekly/284)
 
 ### Mostly Erlang
 
