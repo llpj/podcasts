@@ -8,7 +8,7 @@ podcasts that I am subscribed to:
 - [Giant Robots Smashing into Other Giant Robots](http://learn.thoughtbot.com/podcast)
 - [Hanselminutes](http://hanselminutes.com)
 - [Software Engineering Radio](http://www.se-radio.net/category/episodes)
-- JavaScript Jabber
+- [JavaScript Jabber](http://javascriptjabber.com)
 - Ruby Rogues
 - FLOSS Weekly
 - [NodeUp](http://nodeup.com/fiftyeight), [contribute](https://github.com/nodeup/contribute)
@@ -119,6 +119,7 @@ podcasts that I am subscribed to:
 ### JavaScript Jabber
 
 - [107 JSJ ClojureScript & Om with David Nolen](http://javascriptjabber.com/107-jsj-clojurescript-om-with-david-nolen/)
+- [104 JSJ Hypermedia APIs with Steve Klabnik](http://javascriptjabber.com/104-jsj-hypermedia-apis-with-steve-klabnik/)
 
 ### The Changelog
 
